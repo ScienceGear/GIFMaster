@@ -1,0 +1,31 @@
+{
+  "name": "GIFMaster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScienceGear/GIFMaster.git"
+  },
+  "keywords": [
+    "discordjs",
+    "discord",
+    "animated",
+    "gif"
+  ],
+  "author": "ScienceGear",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ScienceGear/GIFMaster/issues"
+  },
+  "homepage": "https://github.com/ScienceGear/GIFMaster#readme",
+  "dependencies": {
+    "@discordjs/rest": "^2.2.0",
+    "discord-api-types": "^0.37.74",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
